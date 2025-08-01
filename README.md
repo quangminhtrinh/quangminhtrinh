@@ -34,4 +34,4 @@ I am an aspiring Research Economist with a strong background in economics and ma
 
 ## 📫 Connect with Me
 - **LinkedIn:** [linkedin.com/in/quangminhtrinh](https://linkedin.com/in/quangminhtrinh)  
-- **Email:** mqt32@drexel.edu  
+- **Email:** mqt32@drexel.edu  | trinhquangminh2910@gmail.com
