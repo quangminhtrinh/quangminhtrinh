@@ -1,4 +1,4 @@
-## ** Minh Trinh **
+## Minh Trinh
 
 I am an aspiring Research Economist with a strong background in economics and mathematics, currently a fellow in the Break Through Tech AI program from Cornell Tech. I focus on leveraging machine learning models and data visualization to derive actionable insights from complex datasets. My passion lies in solving real-world business challenges and contributing to data-driven projects.  
 
