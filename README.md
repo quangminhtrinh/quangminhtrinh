@@ -23,7 +23,7 @@ I am an aspiring Research Economist with a strong background in economics and ma
 
 | Project                     | Description                                                                                                                                                                                                 | Tech Used           |
 |-----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|
-| **ASA DataFest 2025**       | Awarded "Best Visualization" for analyzing over 190,000 commercial leasing transactions (2018-2024) and developing machine learning models to forecast company movement with 89% accuracy.                | Python, R, Tableau  |
+| **ASA DataFest 2025**       | Awarded "Best Visualization" for analyzing over 190,000 commercial leasing transactions (2018-2024) and developing ML models to forecast company movement with 89% accuracy.                | Python, R, Tableau  |
 | **STAR Undergraduate Researcher** | Investigated and compared AI deception in OpenAI's GPT-3.5 and GPT-4o models using 640 human transcripts with Python for statistical analysis and visualizations.                                    | Python, LIWC, LaTeX |
 
 ## 🛠 Technical Skills
