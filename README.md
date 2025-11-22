@@ -1,6 +1,6 @@
 ## Minh Trinh
 
-I am an aspiring Analyst with a strong background in economics and mathematics, currently a fellow in the Break Through Tech AI program from Cornell Tech. I focus on leveraging machine learning models and data visualization to derive actionable insights from complex datasets. My passion lies in solving real-world business challenges and contributing to data-driven projects.  
+I am an aspiring Data Analyst with a strong background in economics and mathematics, currently a fellow in the Break Through Tech AI program from Cornell Tech. I focus on leveraging machine learning models and data visualization to derive actionable insights from complex datasets. My passion lies in solving real-world business challenges and contributing to data-driven projects.  
 
 ## 🔭 I'm currently working on:
 - Machine Learning coursework with Cornell faculty through the Break Through Tech AI program.  
